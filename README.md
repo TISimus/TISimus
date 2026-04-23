@@ -1,10 +1,10 @@
-<h2 align="left">## Welcome to Simus Tecnologia</h2>
+<h2 align="left">## Bem-vindo à Simus Tecnologia</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TISimus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TISimus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TISimus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TISimus&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ###
@@ -44,46 +44,46 @@
 
 ###
 
-<h2 align="left">🎯 Superus ERP | Retail Technology | Automation | Systems Integration</h2>
+<h2 align="left">🎯 Superus ERP | Tecnologia para o Varejo | Automação | Integração de Sistemas</h2>
 
 ###
 
 <p align="left">
-Simus Tecnologia develops solutions focused on efficiency, control, and innovation for the retail sector.
-With Superus ERP, we support markets and supermarkets through intelligent management, process automation, and system integration designed to optimize daily operations and drive sustainable growth.
+A Simus Tecnologia desenvolve soluções focadas em eficiência, controle e inovação para o setor varejista.
+Com o Superus ERP, apoiamos mercados e supermercados por meio de uma gestão inteligente, automação de processos e integração de sistemas, otimizando a operação diária e impulsionando o crescimento sustentável.
 </p>
 
 ###
 
-<h2 align="left">Our expertise and focus include:</h2>
+<h2 align="left">Nossa especialidade e foco incluem:</h2>
 
 ###
 
 <p align="left">
-🔹 ERP solutions for markets and supermarkets<br>
-🔹 Process automation and systems integration<br>
-🔹 Backend development and business rule implementation<br>
-🔹 APIs, databases, and operational intelligence<br>
-🔹 Scalable, efficient, and reliable technology solutions
+🔹 Soluções ERP para mercados e supermercados<br>
+🔹 Automação de processos e integração de sistemas<br>
+🔹 Desenvolvimento backend e implementação de regras de negócio<br>
+🔹 APIs, bancos de dados e inteligência operacional<br>
+🔹 Soluções tecnológicas escaláveis, eficientes e confiáveis
 </p>
 
 ###
 
-<h2 align="left">🚀 About Simus Tecnologia</h2>
+<h2 align="left">🚀 Sobre a Simus Tecnologia</h2>
 
 ###
 
 <p align="left">
-🏢 Specialized in technology solutions for retail management<br>
-🛒 Superus ERP designed to support the operational needs of markets and supermarkets<br>
-⚙️ Focused on performance, integration, and process optimization<br>
-📈 Committed to innovation, productivity, and sustainable business growth<br>
-🧠 Driven by intelligent solutions that simplify complexity and deliver real results<br><br>
-📍 At Simus Tecnologia, we believe technology should not only support operations, but also strengthen decision-making, improve efficiency, and create lasting value for businesses.
+🏢 Especializada em soluções tecnológicas para a gestão do varejo<br>
+🛒 Superus ERP desenvolvido para atender às necessidades operacionais de mercados e supermercados<br>
+⚙️ Foco em performance, integração e otimização de processos<br>
+📈 Comprometida com inovação, produtividade e crescimento sustentável dos negócios<br>
+🧠 Guiada por soluções inteligentes que simplificam a complexidade e entregam resultados reais<br><br>
+📍 Na Simus Tecnologia, acreditamos que a tecnologia não deve apenas apoiar a operação, mas também fortalecer a tomada de decisão, aumentar a eficiência e gerar valor duradouro para as empresas.
 </p>
 
 ###
 
 <div align="center">
-  <img height="600" src="https://camo.githubusercontent.com/1515549d1f52b09fe3b5127cb6ed365e2818d109dffc7315c69be431f98124bc/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66312f65642f61342f66316564613437363864663864383133356337373937373266323833336538382e676966" />
+  <img height="600" src="https://media.licdn.com/dms/image/v2/C4D1BAQGONyGGenZzxw/company-background_10000/company-background_10000/0/1594122126924/simus_tecnologia_cover?e=2147483647&v=beta&t=1Hvgx7AewTJ4dcRrHAtLTXPu-BxHGQoVxkXy2oYp3sk" />
 </div>
