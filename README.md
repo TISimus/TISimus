@@ -34,10 +34,10 @@
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/gustavoalexandre___/" target="_blank">
+  <a href="https://www.instagram.com/simus_tecnologia/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-  <a href="https://www.linkedin.com/in/luizgustavoalexandre/" target="_blank">
+  <a href="https://br.linkedin.com/company/simus-tecnologia" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
