@@ -2,7 +2,7 @@
 
 ###
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TISimus&bg_color=ffffff&color=b22222&line=ff0000&point=8b0000&area=true&area_color=ffcccc&hide_border=false&hide_title=false&radius=16&order=5" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TISimus&bg_color=b22222&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ff4d4d&hide_border=false&hide_title=false&radius=16&order=5" alt="GitHub Activity Graph" />
 
 ###
 
